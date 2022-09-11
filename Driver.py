@@ -43,8 +43,5 @@ with gr.Blocks(title="Dynamic-QR",css="#heading{background-color:#32a8a8}") as d
     tut_button.click(tutorial,inputs=[],outputs=[demo_video])
     text_button.click(generate_qr, inputs=[text_input,color_input], outputs=[status,image_output])
     
-<<<<<<< HEAD
 demo.launch()
-=======
-demo.launch(share=True)
->>>>>>> b8e2f9d2561c1159d72defcf858f5f73c6a07317
+
