@@ -12,6 +12,8 @@
 
 ![](https://i.imgur.com/waxVImv.png) 
 
+## What is Dynamic-QR?
+
 Dynamic-QR is a modern, fast(high-performance) web app for generating customised realtime dynamic QR codes with Python. Although Dynamic-QR is currently in its early stages of development, it is capable to serve small businesses that is looking to automate multiple basic operations. 
 
 Key Features:
@@ -21,10 +23,28 @@ Key Features:
 * **Customizable**: Lets user customize their QR Codes with tons of variety of fill colors to choose from.
 * **Intuitive**: User-friendly user interface to avoid users to get lost, confused. 
 
-![](https://i.imgur.com/waxVImv.png) 
-
-Upcoming Features:
+Few Upcoming Features:
 
 * **Logo Embedded QR Codes**: It will let user have their organization's logo placed over the QR Codes to increase engagement.
-* **File Mapping**: This feature will allow users to map files of any format (pdf,csv,word,powerpoint,etc) to QR Codes.
+* **File Mapping**: This feature will allow users to map files of any format (pdf,csv,word,powerpoint,etc) to QR Codes to enable downloading/viewing file by scanning QR Code.
+
+![](https://i.imgur.com/waxVImv.png) 
+
+## Demo Usage Of Dynamic-QR on Mobile:
+
+
+https://user-images.githubusercontent.com/78873223/189547796-7cec8d50-4928-4bf4-9598-c7bfb9b17889.mp4
+    
+
+
+![](https://i.imgur.com/waxVImv.png) 
+
+External Libraries Used: 
+
+* **gradio**
+* **qrcode**
+* **pillow**
+
+Installation can be carried out using pip. (Example: pip install qrcode)
+
 
