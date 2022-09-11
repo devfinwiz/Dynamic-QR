@@ -22,6 +22,7 @@ Key Features:
 * **Fast**: Produces deployment ready QR Codes within seconds. 
 * **Customizable**: Lets user customize their QR Codes with tons of variety of fill colors to choose from.
 * **Intuitive**: User-friendly user interface to avoid users to get lost, confused. 
+* **Validation**: Validates user inputted URL to ensure correctness of the generated QR Code.
 
 Few Upcoming Features:
 
