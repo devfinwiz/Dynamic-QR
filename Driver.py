@@ -1,6 +1,6 @@
 from distutils.command.upload import upload
 import gradio as gr
-from Scripts import QR_Generator
+from QR_Generator import generate_qr
 import qrcode
 
 def tutorial():
@@ -39,6 +39,6 @@ with gr.Blocks(title="QR Code Generator",css="#heading{background-color:#32a8a8}
             demo_video = gr.Image(label="Demo").style(height=350,width=500)
 
     tut_button.click(tutorial,inputs=[],outputs=[demo_video])
-    text_button.click(QR_Generator.generate_qr, inputs=[text_input,color_input], outputs=[status,image_output])
+    text_button.click(generate_qr, inputs=[text_input,color_input], outputs=[status,image_output])
     
 demo.launch(share=True)
