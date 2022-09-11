@@ -30,12 +30,10 @@ Few Upcoming Features:
 
 ![](https://i.imgur.com/waxVImv.png) 
 
-## Demo Usage Of Dynamic-QR on Mobile:
+## Glimpses of Dynamic-QR:
 
-
-https://user-images.githubusercontent.com/78873223/189547796-7cec8d50-4928-4bf4-9598-c7bfb9b17889.mp4
-    
-
+![IMG_20220912_022622](https://user-images.githubusercontent.com/78873223/189548594-712940ed-9c98-4d84-930a-2a62f4a6a69c.png)
+![IMG_20220912_022559](https://user-images.githubusercontent.com/78873223/189548598-27205352-0f7c-41ae-8413-70f1dd413b7d.png)
 
 ![](https://i.imgur.com/waxVImv.png) 
 
