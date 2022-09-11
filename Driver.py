@@ -4,7 +4,7 @@ from Scripts import QR_Generator
 import qrcode
 
 def tutorial():
-    url="https://github.com/SONOFSWAAD/MENUHOLDER/raw/main/Tutorial.mp4"
+    url="https://github.com/devfinwiz/Dynamic-QRCode-Generator/raw/master/Tutorial.mp4"
     QRcode = qrcode.QRCode(version=1,box_size=12,
         error_correction=qrcode.constants.ERROR_CORRECT_H
         )
