@@ -19,9 +19,9 @@ def tutorial():
     return QRimg
 
 
-with gr.Blocks(title="QR Code Generator",css="#heading{background-color:#32a8a8}") as demo:
+with gr.Blocks(title="Dynamic-QR",css="#heading{background-color:#32a8a8}") as demo:
 
-    gr.Label(elem_id="heading",value="QR CODE GENERATOR",label="Title")
+    gr.Label(elem_id="heading",value="DYNAMIC-QR",label="Title")
 
     with gr.Tab("Input"):
         text_input = gr.Textbox(label="URL",placeholder="URL To Be Mapped To QR code")
@@ -38,7 +38,9 @@ with gr.Blocks(title="QR Code Generator",css="#heading{background-color:#32a8a8}
             tut_button=gr.Button("View Demo Usage")
             demo_video = gr.Image(label="Demo").style(height=350,width=500)
 
+        gr.Label("Scan The Code For Demo Tutorial")
+
     tut_button.click(tutorial,inputs=[],outputs=[demo_video])
     text_button.click(generate_qr, inputs=[text_input,color_input], outputs=[status,image_output])
     
-demo.launch(share=True)
+demo.launch()
