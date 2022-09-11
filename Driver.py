@@ -9,7 +9,7 @@ def tutorial():
         error_correction=qrcode.constants.ERROR_CORRECT_H
         )
     # adding URL or text to QRcode
-    QRcode.add_data(url)
+     QRcode.add_data(url)
     # generating QR code
     QRcode.make()
     # adding color to QR code
