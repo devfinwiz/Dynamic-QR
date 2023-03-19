@@ -29,6 +29,12 @@ Few Upcoming Features:
 * **Logo Embedded QR Codes**: It will let user have their organization's logo placed over the QR Codes to increase engagement.
 * **File Mapping**: This feature will allow users to map files of any format (pdf,csv,word,powerpoint,etc) to QR Codes to enable downloading/viewing file by scanning QR Code.
 
+How to perform file mapping right now? 
+
+* **Upload your file on Google Drive**: From Drive, click share, change settings for access of file to 'anyone with the link'. Post the drive link in the DynamicQR web app and get your QR Code ready within seconds!
+
+* **Example**: Getting QR Code ready for your restaurant menu card. 
+
 ![](https://i.imgur.com/waxVImv.png) 
 
 ## Glimpses of Dynamic-QR:
