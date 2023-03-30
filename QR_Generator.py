@@ -11,10 +11,7 @@ def url_checker(url):
 		#Get Url
 		get = requests.get(url)
 		# if the request succeeds 
-		if get.status_code == 200:
-			return True
-		else:
-			return False
+		return get.status_code == 200
 
 	#Exception
 	except requests.exceptions.RequestException as e:
