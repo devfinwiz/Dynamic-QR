@@ -29,9 +29,8 @@ with gr.Blocks(title="Dynamic-QR",css="#heading{background-color:#32a8a8}") as d
         status=gr.Textbox(label="Status")
         text_button = gr.Button("Generate QR Code",elem_id="generate_qr")
 
-    with gr.Tab("Output"):
-        with gr.Row():
-            image_output = gr.Image(label="QR Code").style(height=350,width=500)
+    with gr.Tab("Output"), gr.Row():
+        image_output = gr.Image(label="QR Code").style(height=350,width=500)
 
     with gr.Tab("View Demo"):
         with gr.Row():
