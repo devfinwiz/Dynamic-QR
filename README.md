@@ -5,6 +5,12 @@
     <em>Cost Effective Way To Ditch Paid QR Codes</em>
 </p><br>
 
+<div align="center">
+    
+[![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?text=Generate%20your%20customizable%20QR%20Code%20now%20in%20less%20than%20a%20minute!%0A%0Ahttps%3A%2F%2Fhuggingface.co%2Fspaces%2Fdevfinwiz%2FDynamic-QR)
+
+</div>
+
 | **Discussion** | **Bugs/Issues** | **Demo Tutorial** | **Contribute** |
 | :---: | :---: | :---: | :---: |
 | [![meeting](https://user-images.githubusercontent.com/6128978/149935812-31266023-cc5b-4c98-a416-1d4cf8800c0c.png)](https://github.com/devfinwiz/Dynamic-QR/discussions) | [![warning](https://user-images.githubusercontent.com/6128978/149936142-04d7cf1c-5bc5-45c1-a8e4-015454a2de48.png)](https://github.com/devfinwiz/Dynamic-QR/issues/new/choose) | [![help](https://user-images.githubusercontent.com/6128978/149937331-5ee5c00a-748d-4fbf-a9f9-e2273480d8a2.png)](https://github.com/devfinwiz/Dynamic-QR/raw/master/Tutorial.mp4) | [![meeting](https://user-images.githubusercontent.com/6128978/149935812-31266023-cc5b-4c98-a416-1d4cf8800c0c.png)](https://github.com/devfinwiz/Dynamic-QR/fork)
@@ -52,4 +58,9 @@ External Libraries Used:
 
 Installation can be carried out using pip. (Example: pip install qrcode)
 
+<div align="center">
+    
+[![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?text=Generate%20your%20customizable%20QR%20Code%20now%20in%20less%20than%20a%20minute!%0A%0Ahttps%3A%2F%2Fhuggingface.co%2Fspaces%2Fdevfinwiz%2FDynamic-QR)
+
+</div>
 
